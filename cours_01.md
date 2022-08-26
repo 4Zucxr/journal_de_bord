@@ -8,6 +8,7 @@ Avec ma formation, j'amerais aller travailler en Animation 3D ou conception et t
 
 ![image](https://user-images.githubusercontent.com/112189002/186940282-e50f1ef2-f2cc-4690-a2e8-44562245c68f.png)
 (emo)ji
+
 🇸🇻
 
 * Wangan Midnight Maximum Tune 5DX+
