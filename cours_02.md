@@ -6,10 +6,10 @@ Exemple:
 ### [Bulle](https://www.onf.ca/interactif/bulle/) 
 L'oeuvre *Bulle* m'interpelle beaucoup puisque c'est une oeuvre interactive qui porte un message fort. En effet, elle tente de nous sensibiliser aux enjeux climatiques. Prendre position et défendre des valeurs par l'art est l'un des aspects du multimédia qui m'intéresse beaucoup. 
 
-### [Light Pollination]([(https://www.dezeen.com/2016/09/12/video-interview-universal-assembly-unit-interactive-installation-light-pollination-iguzzini-movie/)])  
+### [Light Pollination](https://www.dezeen.com/2016/09/12/video-interview-universal-assembly-unit-interactive-installation-light-pollination-iguzzini-movie/)  
 J'apprécie beaucoup l'installation de Universal Assembly Unit, elle permet de montrer comment le multimédia n'est pas que du dessin. 
 x
-### [Million]([https://www.instagram.com/p/ChnKjwuAvss/])
+### [Million](https://www.instagram.com/p/ChnKjwuAvss/)
 x
 x
 ### Lien 3 
