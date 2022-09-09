@@ -2,19 +2,24 @@
 ## Plan de présentation
 
 ### Présentation
-Parlez de vous. 
+Nom: Omaël Coallier
+17 ans
+Ste-Martine, rive-sud
+J'ai gradué au college héritage avec martin soltan
 
 ### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
+Toujours été fan d'animation
+fait cours multimédia en secondaire et tombé en amour avec
 
 ### Emplois qui vous intéressent
-Nommez deux emplois.
-
+Animateur 3D
+Concepteurs de jeux interactifs
 ### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
-
+Entreprise: Ubisoft
+Artiste: ??
+Why: ??
 ### Dans 5 ans
 Où vous voyez-vous dans 5 ans? 
-
+Soit encore aux études ou travailler en animation
 ### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+J'aimerais faire une installation comme 
