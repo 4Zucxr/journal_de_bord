@@ -2,10 +2,13 @@
 ## Plan de présentation
 
 ### Présentation
-#Nom: Omaël Coallier
-#Age: 17 ans
-#Ville: Ste-Martine, rive-sud
-#J'ai gradué au college héritage avec martin soltan, aussi dans la classe.
+Nom: Omaël Coallier
+
+Age: 17 ans
+
+Ville: Ste-Martine, rive-sud
+
+J'ai gradué au college héritage avec martin soltan, aussi dans la classe.
 
 ### Intérêts dans le domaine
 Toujours été fan d'animation et de jeux vidéo
