@@ -14,13 +14,13 @@ Concepteurs de jeux interactifs
 
 ### Identification
 Entreprise: Ubisoft
-Artiste: Wilson City Stadium
+Artiste: Caleb Schuh
 Why; 
 Ubisoft: J'ai grandi sur des jeux de Ubisoft, comme Watch Dogs, Ray-Man, Assassin's Creed. Je suis fasciné comment la musique, l'action et les effets spéciaux sont mélangé ensemble pour faire ces chefs-d'oeuvre. C'est quelque chose que j'aimerais faire dans le futur.
-Wilson City Stadium:
+Caleb Schuh: Caleb est le créateur d'une série animée sur le web que j'aime bien. Puisque sont équipe est encore petite, il est responsable d'une grande partie de sa production (Production, Animation, Voice-over, Character Design). Je m'y identifie puisque je ne suis pas capable de faire qu'une seule chose dans un projet
 
 ### Dans 5 ans
 Je me voit soit encore au étude ou soit freelancer, le temps de construire un plus gros portfolio pour essayer de me faire embaucher par une grosse compagnie de jeux vidéo (Ubisoft, Gameloft, Riot, Sega).
 
 ### Projets
-J'aimerais faire une installation intéractive avec beaucoups de couleurs, comme Light Pollination
+J'aimerais faire une installation intéractive avec beaucoups de couleurs, comme Light Pollination.
