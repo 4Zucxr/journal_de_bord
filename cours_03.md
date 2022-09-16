@@ -3,8 +3,8 @@
 
 ### Présentation
 Nom: Omaël Coallier
-17 ans
-Ste-Martine, rive-sud
+Age: 17 ans
+Vilel: Ste-Martine, rive-sud
 J'ai gradué au college héritage avec martin soltan, aussi dans la classe.
 
 ### Intérêts dans le domaine
