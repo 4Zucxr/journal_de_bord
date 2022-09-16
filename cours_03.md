@@ -11,19 +11,18 @@ J'ai gradué au college héritage avec martin soltan, aussi dans la classe.
 Toujours été fan d'animation et de jeux vidéo
 J'ais fais cours multimédia en secondaire et je suis tombé en amour avec.
 
-
 ### Emplois qui vous intéressent
 Animateur 3D
 Concepteurs de jeux interactifs
 
 ### Identification
 Entreprise: Ubisoft
-Artiste: ??
+Artiste: Wilson City Stadium
 Why: ??
-### Dans 5 ans
 
+### Dans 5 ans
 Où vous voyez-vous dans 5 ans? 
-Soit encore aux études ou travailler en animation
+Je serai soit encore au étude ou je serais freelancer, le temps de construire un portfolio  
 
 ### Projets
-J'aimerais faire une installation comme Light Pollination
+J'aimerais faire une installation intéractive avec beaucoups de couleurs, comme Light Pollination
