@@ -11,16 +11,16 @@ Un animateur doit etre créatif, minutieux, avoir une bonne perception visuelle 
 
 ### Emploi 2 - Webmestre
 Un webmestre a pour tache de réaliser la maintenance d'un site Web ou intranet en plus de mettre à jour l'information transmise en vue de présenter aux internautes un site esthétique, efficace et facile à utiliser.
-Un webmestre doit etre....        Un point qui m'intéresse dans ce métier est.............,. Un point qui rend le webmestre moins intéressant pour moi est.......
+Un webmestre doit etre polyvalent, initiatif, créatif, réactif et minutieux pour pouvoir trouver des solutions pour traiter des problemes éditoriaux et régler rapidement les problemes qu'un site peut avoir. Un point qui m'intéresse dans ce métier est.............,. Un point qui rend le webmestre moins intéressant pour moi est.......
 
 ### Emploi 3 - Illustrateur
 Un illustrateur a pour tache de concevoir des illustrations à la main ou à l'aide de logiciels de dessin en vue de représenter visuellement divers contenus imprimés ou numériques tels que des livres, des affiches, de la publicité ou des sites Internet.
 Un illustrateur doit etre....        Un point qui m'intéresse dans ce métier est.............,. Un point qui rend l'illustration moins intéressant pour moi est.......
 
 ### Emploi 4 - Concepteur de Jeux Vidéo
-Un concepteur de jeux vidéo a pour tache de créer les mécaniques et les systèmes de base de jeux interactifs et qui participer à la production de ces produits en vue de créer des jeux de qualité qui captive l'intérêt de ccclisateurs.
+Un concepteur de jeux vidéo a pour tache de créer les mécaniques et les systèmes de base de jeux interactifs et qui participer à la production de ces produits en vue de créer des jeux de qualité qui captive l'intérêt de ses utilisateurs.
 Un concepteur de jeux vidéo doit etre....        Un point qui m'intéresse dans ce métier est.............,. Un point qui rend la conception de jeux vidéos moins intéressant pour moi est.......
 
 ### Emploi 5 - Scénariste Intéractif
-Un scénariste intéractif a pour tache de........
+Un scénariste intéractif a pour tache de concevoir, en collaboration avec les équipes artistique et technique, le scénario d'un projet multimédia en vue de créer un produit intéressant, original et convivial qui captive les utilisateurs.
 Un scénariste intéractif doit etre....        Un point qui m'intéresse dans ce métier est.............,. Un point qui rend le scénarisme moins intéressant pour moi est.......
