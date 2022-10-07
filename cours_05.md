@@ -11,4 +11,4 @@
 * L'originalité lié au placement. Pour mes prochaines présentation, je vais essayer de placer les éléments de textes et images autrement, de manière qu'il y aille plus d'originalité et que sa ai un air plus beau.
 
 ### Présentation préférée
-La présentation rose style jeux vidéo avec de l'animation (j'ai oublié le nom de la personne qui la fait).
+* La présentation rose style jeux vidéo avec de l'animation (j'ai oublié le nom de la personne qui la fait).
