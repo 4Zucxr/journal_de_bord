@@ -2,10 +2,11 @@
 ## Rétrospective de la présentation 1
 
 ### Points forts
-Nommer deux points forts de votre présentation. 
+Directement au point
 
 ### Points à améliorer
-Nommer deux points à améliorer de votre présentation et expliquer comment vous allez les travailler pour les prochaines présentations. 
 
+* Ma palette de couleur. Pour mes prochaines présentation, je vais essayer de mettres plus de couleurs lié au image présente, pour les complimenter et les faire plus ressortir.
+* L'originalité lié au placement
 ### Présentation préférée
-La présentation rose avec animation, j'ai oublié le nom de qui qui la fait
+La présentation rose style jeux vidéo avec de l'animation (j'ai oublié le nom de la personne qui la fait).
