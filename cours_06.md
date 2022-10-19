@@ -1,3 +1,11 @@
-# Cours 6
-## Préparation en vue de la visite
-Préparer 5 questions en lien avec la visite que nous irons faire la semaine prochaine. Faites des recherches concernant ce que nous allons visiter afin d'en savoir plus. Les questions doivent porter sur des informations que vous ne pouvez pas trouver en ligne. 
+# Cours 6 
+
+-Quels sont vos criteres pour accepter un artistes dans votre programme de résidence?
+
+-Comment choisissez-vous parmis tous les projets fait par vos artistes ceux qui sont mis en expositions?
+
+-Pourquoi avez-vous décider de vous installer spécifiquement au quartier Cité du Multimédia?
+
+-
+
+-
