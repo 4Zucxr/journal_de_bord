@@ -8,4 +8,4 @@
 
 -Pourquoi avez-vous décider de vous installer spécifiquement au quartier Cité du Multimédia?
 
--
+-Est-ce que les artites-résidents sont bien rémunéré?
