@@ -4,8 +4,8 @@
 
 -Comment choisissez-vous parmis tous les projets fait par vos artistes ceux qui sont mis en expositions?
 
--Pourquoi avez-vous décider de vous installer spécifiquement au quartier Cité du Multimédia?
+-Pourquoi avez-vous créer le centre PHI?
 
--
+-Pourquoi avez-vous décider de vous installer spécifiquement au quartier Cité du Multimédia?
 
 -
