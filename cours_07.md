@@ -1,15 +1,3 @@
-# Cours 7
-## Analyse critique d'une oeuvre
-
-L’objectif de cet exercice est de développer une opinion sur une œuvre multimédia. Pour l’analyse, choisissez l’une des œuvres que nous avons visitées. 
-
-Entre 300 et 400 mots. 
-
-### Description
-Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment était-elle réalisée techniquement? 
-
-### Opinion
-Donnez votre opinion sur l'oeuvre que nous avons visitée. Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? 
-
-### Analyse critique
-Qu'est-ce qui pourrait être modifié dans cette oeuvre? 
+Pour mon analyse, j'ai choisi Goliath: Playing with Reality. Il s'agit de l'histoire de Goliath, un streamer, qui raconte comment il vit après la perte de ses parents, sa schizophrénie et sa réintroduction dans la société après avoir été enfermé dans un hôpital psychiatrique. L'œuvre focus surtout sur comment la schizophrénie lui affecte: Dissociation avec la réalité, avoir des idées violentes, se sentir comme il est en train de s'envoler et imaginer des gens l'insulter. Les composantes de l’installations étaient : une représentation des pensées de Goliath, ce qui se passe dans sa tête, Nos mains (en vr), constamment transformé pour montrer que la schizophrénie fait en sorte que rien de la réalité est concret, Des jeux d’arcades pour représenter certains moments clé de la vie de Goliath, Une représentation de Goliath dans sa chambre à l’hôpital, Goliath sur un espace blanc cubique pour le représenter a sa sortie de l’hôpital, Un mini-jeu de style shooter pour représenter l’approche de Goliath envers les amitié en-ligne et point de vue de Goliath, dans son appartement devant son setup de stream. L’œuvre a été réalisé par 80 différente personnes, avec des rôle allant d’écrivain à artiste 3D et l’aide de plusieurs différents programme, comme Unity et Oculus
+J’ai bien aimé l’œuvre car elle apporte au public général une vue différente de la schizophrénie, par une personne soi-même attente de celle-ci. Je pense que beaucoup de gens considère que de parler des maladies mentales soit considéré tabou, alors j’ai bien aimé que se projet soit fait, puisqu’il permet d’enlever ce tabou et permet de pouvoir comprendre ce qu’une personne atteinte de cette maladie pourrait vivre pour mieux l’accommoder ou l’aider.
+La seule chose que j’aurais modifié dans cette œuvre aurais été le mini-jeu de style shooter pour montrer l’amitié en-ligne. J’ai trouvé qu’il aurait pu prendre moins de temps, car ça devenait répétitif.
