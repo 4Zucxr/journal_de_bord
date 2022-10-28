@@ -1,4 +1,4 @@
-#Cours 7
+# Cours 7
 
 Analyse d'une oeuvre du centre PHI
 
