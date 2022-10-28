@@ -65,4 +65,4 @@
 ## [Cours 15](cours_15.md)
 * Rétrospective de la session. 
 
-* bonjour *
+*bonjour*
